@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Math_Task_4", "Math_Task_4.pyproj", "{CC0A99BC-5C56-4CE0-98AB-1124D732886C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC0A99BC-5C56-4CE0-98AB-1124D732886C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC0A99BC-5C56-4CE0-98AB-1124D732886C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {753C1DD0-A30A-43D2-8AC0-E04245A649AF}
+	EndGlobalSection
+EndGlobal
